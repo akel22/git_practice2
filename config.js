@@ -1,2 +1,2 @@
 console.log('i am a config')
-console.log('version 1')
+console.log('version 15 boss amo')
